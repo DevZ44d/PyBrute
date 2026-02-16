@@ -57,7 +57,7 @@ pip install PyBrute -U
 - 🔑 Crack Hash (Coding) .
 
 ```python
-from PyBrute.Hashing import BruteForce
+from pybrute.Hashing import BruteForce
 
 def main():
     response = BruteForce()
@@ -81,7 +81,7 @@ if __name__ == "__main__":
 - 📦 Crack ZIP File (Coding) .
 
 ```python
-from PyBrute.Ziping import BruteForce
+from pybrute.Ziping import BruteForce
 
 def main():
     cracker = BruteForce()
@@ -143,4 +143,5 @@ PyBrute -h
 
 ### 💬 Help & Support .
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
+
 - For general questions and help, join our **[Telegram chat](https://t.me/PyCodz_Chat)**.
