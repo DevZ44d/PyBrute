@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyBrute"
+version = "1.0.0"
+description = "PyBrute is a lightweight yet powerful CLI tool for performing brute-force attacks on Hashes and ZIP files using custom wordlists."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "AhMed", email = "alexcrow221@gmail.com" }
+]
+dependencies = []
+
+[project.urls]
+homepage = "https://github.com/DevZ44d/PyBrute"
+repository = "https://github.com/DevZ44d/PyBrute"
+documentation = "https://github.com/DevZ44d/PyBrute"
+
+[project.scripts]
+PyBrute = "pybrute.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
