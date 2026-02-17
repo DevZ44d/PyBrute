@@ -32,14 +32,15 @@
 ### PyBrute - Hash & ZIP BruteForce Tool .
 > **_PyBrute_** is a lightweight yet powerful CLI tool for performing brute-force attacks on **Hashes** and **ZIP files** using custom wordlists.
 
-## 🚀 Features:
+### 🚀 Features:
 
-- 🔐 Crack multiple hashes at once
-- 📦 Brute-force password protected ZIP files
-- 📂 Support multiple wordlists
-- ⚡ Fast and lightweight
-- 🎨 Colored terminal output
-- 🧠 Clean and simple CLI interface
+- 🔐 Crack multiple hashes at once .
+- 📦 Brute-force password protected ZIP files .
+- 📂 Support multiple wordlists .
+- ⚡ Fast and lightweight .
+- 🚀 Random Banners .
+- 🎨 Colored terminal output .
+- 🧠 Clean and simple CLI interface .
 
 
 ### 📦 Installation
@@ -145,5 +146,6 @@ PyBrute -h
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 
 - For general questions and help, join our **[Telegram chat](https://t.me/PyCodz_Chat)**.
+
 
 
