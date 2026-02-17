@@ -20,7 +20,7 @@
 <p align="center">
 
   <a href="https://pepy.tech/projects/PyBrute/">
-    <img src="https://static.pepy.tech/personalized-badge/PyBrute?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads">
+    <img src="https://static.pepy.tech/personalized-badge/pybrute?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads">
   </a>
 
   <a href="https://pepy.tech/projects/PyBrute/">
@@ -145,3 +145,4 @@ PyBrute -h
 - Follow updates via the **[Telegram Channel](https://t.me/Pycodz)**.
 
 - For general questions and help, join our **[Telegram chat](https://t.me/PyCodz_Chat)**.
+
